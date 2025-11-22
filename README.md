@@ -34,12 +34,20 @@ I build clean, fast, and production-ready systems using **Go** and **Python**, a
 
 ## Currently Working On
 
-<!-- PROJECTS:START --><table>
-<tr>
-<td align="center">Loading...</td>
-<td align="center">Loading...</td>
-</tr>
-</table>
+<!-- PROJECTS:START -->
+<table><tr>
+<td align="center">
+  <a href="https://github.com/CBYeuler/CBYeuler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CBYeuler&repo=CBYeuler&theme=gruvbox&hide_border=true" />
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://github.com/CBYeuler/trackrV2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CBYeuler&repo=trackrV2&theme=gruvbox&hide_border=true" />
+  </a>
+</td>
+</tr></table>
 <!-- PROJECTS:END -->
 
 
