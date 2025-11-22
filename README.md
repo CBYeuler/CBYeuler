@@ -3,6 +3,11 @@
 # CBYeuler  
 ` Software Developer `
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=CBYeuler&label=Profile%20Views&color=0e75b6&style=flat" alt="CBYeuler" />
+</p>
+
+
 I’m a developer from Ankara — mostly living inside terminals, coffee shops, and my IDE.  
 I build clean, fast, and production-ready systems using **Go** and **Python**, and I’m obsessed with turning small ideas into real, working apps.
 
