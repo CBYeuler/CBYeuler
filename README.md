@@ -39,11 +39,32 @@ I build clean, fast, and production-ready systems using **Go** and **Python**, a
 ---
 
 ##  Stats
+## 📊 GitHub Analytics
 
-![Batuhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CBYeuler&show_icons=true&theme=gruvbox)
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CBYeuler&theme=gruvbox&border_radius=4.5)
+<img src="https://github-readme-stats.vercel.app/api?username=CBYeuler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBYeuler&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=CBYeuler&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 <!--
 **CBYeuler/CBYeuler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
