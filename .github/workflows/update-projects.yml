@@ -3,7 +3,7 @@ name: Update latest projects in README
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */3 * * *"  # her 6 saatte bir
+    - cron: "0 */3 * * *"  
 
 jobs:
   update-readme:
