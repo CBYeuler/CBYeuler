@@ -11,7 +11,6 @@
 I’m a developer from Ankara — mostly living inside terminals, coffee shops, and my IDE.  
 I build clean, fast, and production-ready systems using **Go** and **Python**, and I’m obsessed with turning small ideas into real, working apps.
 
----
 
 ##  Languages & Tools
 
@@ -36,22 +35,20 @@ I build clean, fast, and production-ready systems using **Go** and **Python**, a
 
 <br/><br/>
 
----
 
-##  Stats
-## 📊 GitHub Analytics
+## Analytics
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CBYeuler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=CBYeuler&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBYeuler&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBYeuler&theme=gruvbox&hide_border=true&layout=compact&langs_count=8" />
 
 </td>
 </tr>
@@ -62,9 +59,10 @@ I build clean, fast, and production-ready systems using **Go** and **Python**, a
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=CBYeuler&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=CBYeuler&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
+
 
 <!--
 **CBYeuler/CBYeuler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
