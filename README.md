@@ -30,13 +30,16 @@ I build clean, fast, and production-ready systems using **Go** and **Python**, a
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-
+- - -
 
 ## Currently Working On
 
-<!-- PROJECTS:START -->
-- [CBYeuler](https://github.com/CBYeuler/CBYeuler)
-- [trackrV2](https://github.com/CBYeuler/trackrV2) — Version 2 of a lightweight Go CLI habit-tracker: fast, flexible, built on Pos...
+<!-- PROJECTS:START --><table>
+<tr>
+<td align="center">Loading...</td>
+<td align="center">Loading...</td>
+</tr>
+</table>
 <!-- PROJECTS:END -->
 
 
