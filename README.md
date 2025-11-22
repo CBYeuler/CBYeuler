@@ -35,7 +35,8 @@ I build clean, fast, and production-ready systems using **Go** and **Python**, a
 ## Currently Working On
 
 <!-- PROJECTS:START -->
-
+- [CBYeuler](https://github.com/CBYeuler/CBYeuler)
+- [trackrV2](https://github.com/CBYeuler/trackrV2) — Version 2 of a lightweight Go CLI habit-tracker: fast, flexible, built on Pos...
 <!-- PROJECTS:END -->
 
 
