@@ -17,21 +17,25 @@ def fetch_latest_repos(n=2):
     # fork olmayanlardan en son güncellenen N tanesini al
     repos = [r for r in data if not r.get("fork", False)][:n]
 
-    lines = []
+    rows = []
     for repo in repos:
         name = repo["name"]
         url = repo["html_url"]
-        desc = repo.get("description") or ""
-        # description çok uzunsa kısalt
-        if len(desc) > 80:
-            desc = desc[:77] + "..."
-        if desc:
-            line = f"- [{name}]({url}) — {desc}"
-        else:
-            line = f"- [{name}]({url})"
-        lines.append(line)
+        card = f"""
+<td align="center">
+  <a href="{url}">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username={USERNAME}&repo={name}&theme=gruvbox&hide_border=true" />
+  </a>
+</td>
+"""
+        rows.append(card)
 
-    return "\n".join(lines) if lines else "- (no recent projects found)"
+    # Eğer 2 repo değilse doldur
+    while len(rows) < 2:
+        rows.append("<td></td>")
+
+    table = f"<table><tr>{''.join(rows)}</tr></table>"
+    return table
 
 
 def main():
@@ -41,9 +45,9 @@ def main():
     start_marker = "<!-- PROJECTS:START -->"
     end_marker = "<!-- PROJECTS:END -->"
 
-    latest_block = fetch_latest_repos(2)
+    block = fetch_latest_repos()
 
-    replacement = f"{start_marker}\n{latest_block}\n{end_marker}"
+    replacement = f"{start_marker}\n{block}\n{end_marker}"
 
     pattern = re.compile(
         rf"{re.escape(start_marker)}.*?{re.escape(end_marker)}",
@@ -53,13 +57,13 @@ def main():
     new_content, count = pattern.subn(replacement, content)
 
     if count == 0:
-        print("Markers not found in README.md")
+        print("Markers not found!")
         return
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(new_content)
 
-    print("README.md updated with latest projects.")
+    print("README updated.")
 
 
 if __name__ == "__main__":
