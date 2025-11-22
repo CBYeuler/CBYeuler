@@ -32,6 +32,12 @@ I build clean, fast, and production-ready systems using **Go** and **Python**, a
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 
 
+## Currently Working On
+
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
+
+
 
 <br/><br/>
 
