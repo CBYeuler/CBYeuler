@@ -1,7 +1,16 @@
 <!-- HEADER -->
+
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+CBYeuler;Software+Developer+%7C+Go+%26+Python;Building+Clean+%26+Production-Ready+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3500&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hey+I'm+CBYeuler;Software+Developer;Welcome+to+my+GitHub+page" />
 </p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/wave-top.svg" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Ankara-0A66C2?style=flat-square" />
@@ -78,6 +87,9 @@ I build clean, fast, and production-ready systems using Go, Python, and modern t
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/dist/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/wave-bottom.svg" />
+</p>
 
 
 <!--
