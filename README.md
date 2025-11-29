@@ -55,6 +55,16 @@ I build clean, fast, and production-ready systems using Go, Python, and modern t
 <br><br>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
+</p>
+
+
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
@@ -68,9 +78,18 @@ I build clean, fast, and production-ready systems using Go, Python, and modern t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CBYeuler&theme=react-dark&bg_color=000000&color=61dafb&line=0A66C2&point=1E90FF&area=true&hide_border=true" alt="CBYeuler GitHub Activity Graph" />
 </p>
 
+
+## Languages I Used This Month
+<!--START_SECTION:stirfry-->
+<!--END_SECTION:stirfry-->
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
 </p>
+
+
 
 
 ## About Me
@@ -80,6 +99,26 @@ I build clean, fast, and production-ready systems using Go, Python, and modern t
 - Learning more about Cloud, Kubernetes, and distributed systems  
 - Focused on shipping real, working products  
 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
+</p>
+
+
+## My Developer Metrics
+<!--START_SECTION:metrics-->
+<!--END_SECTION:metrics-->
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
+</p>
+
+
+## My Code Heatmap
+<!--START_SECTION:heatmap-->
+<!--END_SECTION:heatmap-->
 
 
 
