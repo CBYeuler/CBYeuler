@@ -1,0 +1,21 @@
+name: ASCII Heatmap
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run heatmap generator
+        run: python3 scripts/heatmap.py > HEATMAP.md
+
+      - name: Commit heatmap
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "update: ascii heatmap"
+          file_pattern: HEATMAP.md
