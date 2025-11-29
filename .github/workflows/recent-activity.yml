@@ -19,18 +19,27 @@ jobs:
           script: |
             const fs = require("fs");
 
-            const events = await github.rest.activity.listPublicEventsForUser({
+            const res = await github.rest.activity.listPublicEventsForUser({
               username: "CBYeuler",
-              per_page: 10,
+              per_page: 20,
             });
 
-            const lines = events.data
+            const events = res.data;
+
+            const lines = events
               .filter(e => e.type === "PushEvent")
               .map(e => {
-                const repo = e.repo.name;
-                const msg = e.payload.commits[0].message;
+                const repo = e.repo?.name ?? "Unknown Repo";
+
+                const commits = e.payload?.commits;
+                if (!commits || commits.length === 0)
+                  return null;
+
+                const msg = commits[0].message ?? "(no message)";
                 return `- [${repo}]: ${msg}`;
               })
+              .filter(Boolean)
+              .slice(0, 10)   // ilk 10 tanesi
               .join("\n");
 
             fs.writeFileSync("RECENT.md", lines || "No recent pushes.");
@@ -40,3 +49,4 @@ jobs:
         with:
           file_pattern: RECENT.md
           commit_message: "update: recent activity"
+
