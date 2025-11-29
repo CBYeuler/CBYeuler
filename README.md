@@ -81,11 +81,14 @@ I build clean, fast, and production-ready systems using Go, Python, and modern t
 - Focused on shipping real, working products  
 
 
-## Contribution Grid Animation
+
+
+## Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/dist/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/wave-bottom.svg" />
