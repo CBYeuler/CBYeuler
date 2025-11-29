@@ -1,0 +1,10 @@
+<svg width="100%" height="4" viewBox="0 0 1200 4" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="grad">
+    <stop offset="0%" stop-color="#0A66C2" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#61DAFB" stop-opacity="0.8"/>
+    <stop offset="100%" stop-color="#0A66C2" stop-opacity="0"/>
+  </linearGradient>
+  <rect width="1200" height="4" fill="url(#grad)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite" />
+  </rect>
+</svg>
