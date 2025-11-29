@@ -2,21 +2,23 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
+    - cron: "0 0 * * *"   
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
-      - uses: vn7n24fzkq/github-profile-summary-cards-action@release
+      - name: Generate profile summary cards
+        uses: yakutou/github-profile-summary-cards@release
         with:
-          USERNAME: CBYeuler
+          USERNAME: "CBYeuler"
           UTC_OFFSET: "+3"
 
-      - name: Push changes
+      - name: Commit files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update summary cards"
+          commit_message: "update: profile summary cards"
