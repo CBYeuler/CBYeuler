@@ -8,17 +8,19 @@
   <img src="https://komarev.com/ghpvc/?username=CBYeuler&label=Views&color=0A66C2&style=flat-square" />
 </p>
 
----
 
-#  CBYeuler  
-` Software Developer | Go & Python `
 
-I’m a developer from Ankara — living inside terminals, coffee shops, and my IDE.  
-I build clean, fast, and production-ready systems using **Go**, **Python**, and modern tooling.
+# CBYeuler  
+`Software Developer | Go & Python`
 
----
+I’m a developer from Ankara — mostly living inside terminals, coffee shops, and my IDE.  
+I build clean, fast, and production-ready systems using Go, Python, and modern tooling.
 
-##  Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
+</p>
+
+## Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" />
@@ -43,62 +45,39 @@ I build clean, fast, and production-ready systems using **Go**, **Python**, and 
 
 <br><br>
 
----
 
-<!-- FRAME -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
 </p>
 
-##  Featured Projects
+
+
+## GitHub Activity (Last 30 Days)
 
 <p align="center">
-  <a href="https://github.com/CBYeuler/Social-Dev-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CBYeuler&repo=Social-Dev-           Automation&theme=github_dark&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/CBYeuler/echoes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CBYeuler&repo=echoes&theme=github_dark&hide_border=true" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CBYeuler&theme=react-dark&bg_color=000000&color=61dafb&line=0A66C2&point=1E90FF&area=true&hide_border=true" alt="CBYeuler GitHub Activity Graph" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
 </p>
 
----
 
-##  Analytics
+## About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CBYeuler&theme=github_dark&show_icons=true&hide_border=true&count_private=true" height="165" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBYeuler&theme=github_dark&layout=compact&hide_border=true&langs_count=10" height="165" />
-
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
-</p>
-
----
-
-##  About Me
-
--  Building **automation backends**, **AI tools**, and **Go APIs**
--  Fueled by coffee & `go run .`
--  Learning: **Cloud**, **Kubernetes**, **Distributed Systems**
--  Mission: Ship products that actually work.
-
----
+- Building automation backends, AI tools, and Go APIs  
+- Fueled by coffee and `go run .`  
+- Learning more about Cloud, Kubernetes, and distributed systems  
+- Focused on shipping real, working products  
 
 
+## Contribution Grid Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/dist/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
 
 <!--
