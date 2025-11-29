@@ -6,9 +6,19 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-activity:
+  activity:
     runs-on: ubuntu-latest
     steps:
-      - uses: Readme-Workflows/recent-activity@v2
-        env:
+      - uses: actions/checkout@v4
+
+      - name: Generate activity log
+        uses: andyruwruw/activity-log@v1
+        with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_LINES: 10
+
+      - name: Commit activity file
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "update: recent activity"
+          file_pattern: ACTIVITY.md
