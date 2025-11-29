@@ -2,18 +2,24 @@ name: Monthly Languages
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 jobs:
-  lang-stats:
+  langs:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
-      - uses: todykranw/stirfry@v1
+
+      - name: Generate language stats
+        uses: github-linguist/github-linguist-action@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: stefanzweifel/git-auto-commit-action@v5
+          include_paths: "."
+          output: "LANGUAGES.md"
+
+      - name: Commit language stats
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "update: monthly languages"
-          file_pattern: STIRFRY.md
+          commit_message: "update: language stats"
+          file_pattern: LANGUAGES.md
