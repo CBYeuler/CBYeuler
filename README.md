@@ -80,6 +80,10 @@ I build clean, fast, and production-ready systems using Go, Python, and modern t
 
 
 ## Languages I Used This Month
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+</p>
+
 <!--START_SECTION:stirfry-->
 <!--END_SECTION:stirfry-->
 
