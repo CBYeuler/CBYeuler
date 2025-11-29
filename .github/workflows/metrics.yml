@@ -1,0 +1,26 @@
+name: Generate Developer Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: "1.22"
+
+      - name: Run metrics generator
+        run: go run scripts/metrics.go > METRICS.md
+
+      - name: Commit metrics
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "update: developer metrics"
+          file_pattern: METRICS.md
