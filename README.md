@@ -1,92 +1,104 @@
-![Header](./github-header-banner.png)
-
-# CBYeuler  
-` Software Developer `
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CBYeuler&label=Profile%20Views&color=0e75b6&style=flat" alt="CBYeuler" />
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+CBYeuler;Software+Developer+%7C+Go+%26+Python;Building+Clean+%26+Production-Ready+Systems" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Ankara-0A66C2?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=CBYeuler&label=Views&color=0A66C2&style=flat-square" />
+</p>
 
-I’m a developer from Ankara — mostly living inside terminals, coffee shops, and my IDE.  
-I build clean, fast, and production-ready systems using **Go** and **Python**, and I’m obsessed with turning small ideas into real, working apps.
+---
 
+#  CBYeuler  
+` Software Developer | Go & Python `
+
+I’m a developer from Ankara — living inside terminals, coffee shops, and my IDE.  
+I build clean, fast, and production-ready systems using **Go**, **Python**, and modern tooling.
+
+---
 
 ##  Languages & Tools
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30px" />
+</p>
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+<br><br>
 
+---
 
+<!-- FRAME -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
+</p>
 
-<br/><br/>
+##  Featured Projects
 
-## Currently Working On
-
-<!-- PROJECTS:START -->
-<table><tr>
-<td align="center">
+<p align="center">
   <a href="https://github.com/CBYeuler/Social-Dev-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CBYeuler&repo=Social-Dev-Automation&theme=gruvbox&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CBYeuler&repo=Social-Dev-           Automation&theme=github_dark&hide_border=true" />
   </a>
-</td>
 
-<td align="center">
-  <a href="https://github.com/CBYeuler/CBYeuler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CBYeuler&repo=CBYeuler&theme=gruvbox&hide_border=true" />
+  <a href="https://github.com/CBYeuler/echoes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CBYeuler&repo=echoes&theme=github_dark&hide_border=true" />
   </a>
-</td>
-</tr></table>
-<!-- PROJECTS:END -->
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
+</p>
+
+---
+
+##  Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CBYeuler&theme=github_dark&show_icons=true&hide_border=true&count_private=true" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBYeuler&theme=github_dark&layout=compact&hide_border=true&langs_count=10" height="165" />
+
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
+</p>
+
+---
+
+##  About Me
+
+-  Building **automation backends**, **AI tools**, and **Go APIs**
+-  Fueled by coffee & `go run .`
+-  Learning: **Cloud**, **Kubernetes**, **Distributed Systems**
+-  Mission: Ship products that actually work.
+
+---
 
 
 
-<br/><br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-
-## Analytics
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CBYeuler&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBYeuler&theme=gruvbox&hide_border=true&layout=compact&langs_count=8" />
-
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=CBYeuler&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+---
 
 
 <!--
