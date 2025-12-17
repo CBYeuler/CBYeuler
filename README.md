@@ -1,23 +1,17 @@
 <!-- HEADER -->
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3500&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hey+I'm+CBYeuler;Software+Developer;Welcome+to+my+GitHub+page" />
 </p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/wave-top.svg" />
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Ankara-0A66C2?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=CBYeuler&label=Views&color=0A66C2&style=flat-square" />
 </p>
-
-
 
 # CBYeuler  
 `Software Developer | Go & Python`
@@ -54,23 +48,24 @@ I build clean, fast, and production-ready systems using Go, Python, and modern t
 
 <br><br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
 </p>
 
+## GitHub Stats
 
-## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p align="center">
 
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBYeuler&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=61DAFB&text_color=FFFFFF" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
 </p>
-
-
 
 ## GitHub Activity (Last 30 Days)
 
@@ -79,22 +74,12 @@ I build clean, fast, and production-ready systems using Go, Python, and modern t
 </p>
 
 
-## Languages I Used This Month
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-</p>
-
 <!--START_SECTION:stirfry-->
 <!--END_SECTION:stirfry-->
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
 </p>
-
-
-
 
 ## About Me
 
@@ -103,27 +88,9 @@ I build clean, fast, and production-ready systems using Go, Python, and modern t
 - Learning more about Cloud, Kubernetes, and distributed systems  
 - Focused on shipping real, working products  
 
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
 </p>
-
-
-## My Developer Metrics
-<!--START_SECTION:metrics-->
-<!--END_SECTION:metrics-->
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
-</p>
-
-
-## My Code Heatmap
-<!--START_SECTION:heatmap-->
-<!--END_SECTION:heatmap-->
-
 
 
 ## Contribution
@@ -131,7 +98,6 @@ I build clean, fast, and production-ready systems using Go, Python, and modern t
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/wave-bottom.svg" />
