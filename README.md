@@ -32,6 +32,8 @@ I build clean, fast, and production-ready systems using Go, Python, and modern t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30px" />
@@ -47,22 +49,6 @@ I build clean, fast, and production-ready systems using Go, Python, and modern t
 </p>
 
 <br><br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
-</p>
-
-## GitHub Stats
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBYeuler&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=61DAFB&text_color=FFFFFF" width="48%" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
 </p>
