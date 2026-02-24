@@ -1,5 +1,5 @@
 Go       ██████████████████
-Python   ██████
-Bash     █████
+Python   ███████████
+Bash     ██████
 TS       ████
-Other    █
+Other    ██████
