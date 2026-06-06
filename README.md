@@ -14,7 +14,7 @@
 </p>
 
 
-<h1 align="center">CBYeuler</h1>
+
 
 <p align="center">
   <code>Software Developer | Go & Python</code>
