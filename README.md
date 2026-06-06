@@ -13,11 +13,17 @@
   <img src="https://komarev.com/ghpvc/?username=CBYeuler&label=Views&color=0A66C2&style=flat-square" />
 </p>
 
-# CBYeuler  
-`Software Developer | Go & Python`
 
-I’m a developer from Ankara — mostly living inside terminals, coffee shops, and my IDE.  
-I build clean, fast, and production-ready systems using Go, Python, and modern tooling.
+<h1 align="center">CBYeuler</h1>
+
+<p align="center">
+  <code>Software Developer | Go & Python</code>
+</p>
+
+<p align="center">
+  I’m a developer from Ankara — mostly living inside terminals, coffee shops, and my IDE. <br/>
+  I build clean, fast, and production-ready systems using Go, Python, and modern tooling.
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
