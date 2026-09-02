@@ -53,16 +53,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CBYeuler/CBYeuler/main/assets/blue-divider.svg" width="90%" />
-</p>
-
-## GitHub Activity (Last 30 Days)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CBYeuler&theme=react-dark&bg_color=000000&color=61dafb&line=0A66C2&point=1E90FF&area=true&hide_border=true" alt="CBYeuler GitHub Activity Graph" />
-</p>
-
 
 <!--START_SECTION:stirfry-->
 <!--END_SECTION:stirfry-->
